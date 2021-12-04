@@ -3,7 +3,7 @@ package bullscows;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
-
+//JetBrainsAcademy
 public class BullsAndCowsFinder {
     private Scanner scanner = new Scanner(System.in);
     private int counterForTurns = 1;

@@ -5,6 +5,7 @@ import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
+//JetBrainsAcademy
 public class RandomGenerator {
     private Scanner s = new Scanner(System.in);
     private Random random = new Random();
